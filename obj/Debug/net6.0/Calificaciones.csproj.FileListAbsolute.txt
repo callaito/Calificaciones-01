@@ -1,0 +1,28 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\bin\Debug\net6.0\Calificaciones.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\bin\Debug\net6.0\Calificaciones.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\bin\Debug\net6.0\Calificaciones.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\bin\Debug\net6.0\Calificaciones.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\bin\Debug\net6.0\Calificaciones.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\Calificaciones.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\Calificaciones.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\refint\Calificaciones.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\Calificaciones.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\Calificaciones.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Calificaciones\obj\Debug\net6.0\ref\Calificaciones.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\bin\Debug\net6.0\Calificaciones.exe
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\bin\Debug\net6.0\Calificaciones.deps.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\bin\Debug\net6.0\Calificaciones.runtimeconfig.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\bin\Debug\net6.0\Calificaciones.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\bin\Debug\net6.0\Calificaciones.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\Calificaciones.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\Calificaciones.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\refint\Calificaciones.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\Calificaciones.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\Calificaciones.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Calificaciones\obj\Debug\net6.0\ref\Calificaciones.dll
